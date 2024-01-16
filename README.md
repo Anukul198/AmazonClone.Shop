@@ -1,2 +1,4 @@
-<h1>Here!! You Can Shop</h1>
-<h3>By your choice</h3>
+<h1>Amazon - Clone using ReactJs</h1>
+
+<h3>Here!! You Can Shop</h3>
+
